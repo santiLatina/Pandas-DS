@@ -1,6 +1,6 @@
 Practicing Pandas library with small data sicence project.
 
-I followed a course and made this small project for practice Pandas library.
+I've been taking a course and I made this small project for practice Pandas library.
 
 
 **DATASETS**
@@ -10,7 +10,7 @@ Climate Change from https://data.worldbank.org/topic/climate-change
 (CO2, forest, agriculture, population and electric power consumption)
 ****
 
-I cleaned and organized the diferent data and made a new dataset:
+I cleaned and organized the diferent data and made a new dataframe:
 
 ** Some of the merged datasets ** 
 Country  temperature  year name  agriculture    forest      co2  electricprod  population
@@ -27,4 +27,4 @@ Country  temperature  year name  agriculture    forest      co2  electricprod  p
 7223  Zimbabwe      20.4505  2013  ZWE     162000.0  177670.7  12360.0    628.746242  13350378.0
 ****
 
-
+Then I created diferent plots to visualize diferent data frames.
