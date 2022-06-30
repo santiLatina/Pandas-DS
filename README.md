@@ -4,9 +4,10 @@ I've been taking a course and I made this small project for practice Pandas libr
 
 
 ## DATASETS 📋
-GlobalTemperatures.csv from https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
+{
+* GlobalTemperatures.csv from https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
 
-Climate Change from https://data.worldbank.org/topic/climate-change
+* Climate Change from https://data.worldbank.org/topic/climate-change
 (CO2, forest, agriculture, population and electric power consumption)
 
 ## Results
@@ -28,4 +29,7 @@ Country  temperature  year name  agriculture    forest      co2  electricprod  p
 7222  Zimbabwe      23.0455  2012  ZWE     162000.0  178131.4  12110.0    608.761669  13115149.0
 7223  Zimbabwe      20.4505  2013  ZWE     162000.0  177670.7  12360.0    628.746242  13350378.0
 ****
+
+After that I plotted "parallel coordinates" :
+[image]
 
