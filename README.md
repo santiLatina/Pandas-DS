@@ -32,4 +32,4 @@ I cleaned and organized the different data to create a new data frame.
 
 
 After that I plotted "parallel coordinates" :
-![image] (https://github.com/santiLatina/Pandas-DS/blob/master/coordenadas_paralelas.jpg)
+![image](https://github.com/santiLatina/Pandas-DS/blob/master/coordenadas_paralelas.jpg)
