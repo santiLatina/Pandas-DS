@@ -1,18 +1,20 @@
-Practicing Pandas library with small data sicence project.
+## Practicing Pandas library with small data sicence project.📝👨🏻‍🔬
 
 I've been taking a course and I made this small project for practice Pandas library.
 
 
-**DATASETS**
+## DATASETS 📋
 GlobalTemperatures.csv from https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
 
 Climate Change from https://data.worldbank.org/topic/climate-change
 (CO2, forest, agriculture, population and electric power consumption)
-****
 
-I cleaned and organized the diferent data and made a new dataframe:
+## Results
 
-** Some of the merged datasets ** 
+I cleaned and organized the different data to create a new data frame.
+
+• Demo:
+
 Country  temperature  year name  agriculture    forest      co2  electricprod  population
 62     Albania      13.4490  1990  ALB      11210.0    7888.0   6050.0    552.252185   3286542.0
 63     Albania      11.5885  1991  ALB      11270.0    7868.5   4110.0    418.453589   3266790.0
@@ -27,4 +29,3 @@ Country  temperature  year name  agriculture    forest      co2  electricprod  p
 7223  Zimbabwe      20.4505  2013  ZWE     162000.0  177670.7  12360.0    628.746242  13350378.0
 ****
 
-Then I created diferent plots to visualize diferent data frames.
