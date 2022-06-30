@@ -1,4 +1,4 @@
-## Practicing Pandas library with small data sicence project.📝👨🏻‍🔬
+# Practicing Pandas library with small data sicence project.📝👨🏻‍🔬
 
 I've been taking a course and I made this small project for practice Pandas library.
 
