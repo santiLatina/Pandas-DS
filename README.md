@@ -1,13 +1,13 @@
-# Practicing Pandas library with small data sicence project.📝👨🏻‍🔬
+# Practicing Pandas library with small data science project.📝👨🏻‍🔬
 
 I've been taking a course and I made this small project for practice Pandas library.
 
 
 ## DATASETS 📋
 
-* GlobalTemperatures.csv from https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
+* GlobalTemperatures.csv  https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
 
-* Climate Change from https://data.worldbank.org/topic/climate-change
+* Climate Change https://data.worldbank.org/topic/climate-change
 (CO2, forest, agriculture, population and electric power consumption)
 
 ## Results
